@@ -312,6 +312,9 @@ scholar:
   group_by: year
   group_order: descending
 
+  # other codes
+  type_names: { Unpublished: Preprints }
+
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
