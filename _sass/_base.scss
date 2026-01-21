@@ -785,7 +785,7 @@ footer.sticky-bottom {
       .title {
         font-weight: bolder;
       }
-
+{% comment %}
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
@@ -795,7 +795,9 @@ footer.sticky-bottom {
             text-decoration: none;
           }
         }
+{% endcomment %}
 
+        
         > em {
           border-bottom: 1px solid;
           font-style: normal;
