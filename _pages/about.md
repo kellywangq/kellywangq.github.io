@@ -26,10 +26,10 @@ latest_posts:
 
 I am a second year phd student of [Oscar Randal-Williams](https://www.dpmms.cam.ac.uk/~or257/) at the [University of Cambridge](https://www.dpmms.cam.ac.uk/).
 
-I am interested in looking at homological stability via a homotopical lens, and any thing broadly related.
+I am interested in looking at homological stability via a homotopical lens, and anything broadly related.
 
 Before this I was doing undergraduate and Part III at Cambridge.
 
-Mail: qw267 at cam dot ac dot uk
+Email: qw267 at cam dot ac dot uk
 
 Office: E0.01
