@@ -6,9 +6,9 @@ subtitle:
 
 profile:
   align: right
-  image: 
+  image: IMG_3826.JPG
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: Credit: Archives of the Mathematisches Forschungsinstitut Oberwolfach
     
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
