@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: 7FEDDA5B-4E28-4F6B-B488-6FDE8DC7CA8F.jpeg
+  image: pfp.jpg
   image_circular: false # crops the image to make it circular
   more_info: Credit: Archives of the Mathematisches Forschungsinstitut Oberwolfach
     
