@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: IMG_3826.JPG
+  image: IMG_3826.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
   <p>Credit: Archives of the Mathematisches Forschungsinstitut Oberwolfach</p>
