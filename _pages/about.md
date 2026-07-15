@@ -8,7 +8,7 @@ profile:
   align: right
   image: pfp.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more-info: >
   <p>Credit: Archives of the Mathematisches Forschungsinstitut Oberwolfach</p>
     
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,3 +25,5 @@ Before this I was doing undergraduate and Part III at Cambridge.
 Email: qw267 at cam dot ac dot uk
 
 Office: E0.01
+
+<small><em>Photo credit: Archives of the Mathematisches Forschungsinstitut Oberwolfach</em></small>
