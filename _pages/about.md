@@ -25,4 +25,4 @@ Email: qw267 at cam dot ac dot uk
 
 Office: E0.01
 
-<small><em>Photo credit: Archives of the Mathematisches Forschungsinstitut Oberwolfach</em></small>
+<small><i>Photo credit: Archives of the Mathematisches Forschungsinstitut Oberwolfach</i></small>
