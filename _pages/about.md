@@ -15,7 +15,7 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-I am a second year phd student of [Oscar Randal-Williams](https://www.dpmms.cam.ac.uk/~or257/) at the [University of Cambridge](https://www.dpmms.cam.ac.uk/).
+I am a second year phd student of [Oscar Randal-Williams](https://www.dpmms.cam.ac.uk/~or257/) at the [University of Cambridge](https://www.dpmms.cam.ac.uk/). Here's my <a href="{{ '/assets/cv_aug_26.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button" style="background-color: var(--global-theme-color); color: white;">CV</a>.
 
 I am interested in looking at homological stability via a homotopical lens, and anything broadly related.
 
